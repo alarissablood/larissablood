@@ -1,6 +1,6 @@
 # Hi, I'm Larissa Blood! 👋
 
-I am a **Software Engineering student** and currently work as a **Systems Analyst**, providing technical support, analyzing failures, working with monitoring systems, and solving technical problems.
+I am a **Software Engineering student** and currently work as a **Systems Analyst**, providing technical support, analyzing system failures, working with monitoring systems, and solving technical issues.
 
 I have a special interest in **Data Analysis**.
 
@@ -9,10 +9,10 @@ I have a special interest in **Data Analysis**.
 * 🎓 Sixth-semester Software Engineering student.
 * 💼 Currently working as a Systems Analyst.
 * 🔍 Experienced in failure analysis, technical support, and system troubleshooting.
-* 📊 Developing my skills in Data Analysis, SQL, statistics, and data visualization.
-* 🧪 I also study software testing, quality assurance, and test automation.
-* 🚀 I am looking to grow professionally in Data, QA, and Software Development.
-* 📚 I enjoy turning everyday problems into practical projects for learning and building my portfolio.
+* 📊 I am developing a note-taking project and focusing my studies on Data Analysis.
+* 🧪 I also study software architecture, testing, and software development.
+* 🚀 I am looking to grow professionally in the Data field.
+* 📚 I enjoy turning everyday problems into practical projects for learning and portfolio development.
 
 ## 🛠️ Technologies and Tools
 
@@ -33,16 +33,17 @@ I have a special interest in **Data Analysis**.
 * REST APIs
 * Postman
 * Swagger
+* MongoDB
 * Git and GitHub
 
 ## 💼 Professional Experience
 
-I work with technical support and system monitoring solutions related to security and monitoring systems. My main responsibilities include:
+I work with technical support and solutions related to security and monitoring systems. My main responsibilities include:
 
 * Analyzing and resolving system failures.
-* Investigating communication and connection problems.
+* Investigating communication and connection issues.
 * Checking logs, events, services, and integrations.
-* Configuring and monitoring receivers and devices.
+* Configuring and monitoring alarm receivers and other devices.
 * Providing customer support and technical guidance.
 * Recording and documenting incidents.
 * Identifying recurring problems.
@@ -52,7 +53,7 @@ This experience has strengthened my skills in **analysis, communication, documen
 
 ## 📂 Projects in Development
 
-* 📊 Data analysis for a note-taking system.
+* 📊 Data analysis applied to a note-taking system.
 * 🗃️ Note-taking system developed with Node.js and a database.
 * 📈 Dashboards to identify recurring failures.
 * 🔎 Failure analysis for the note-taking system.
